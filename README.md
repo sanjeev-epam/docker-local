@@ -13,4 +13,4 @@ This is a simple local docker, meaning do not set on Production. Please use at y
 - Have enough RAM on your windows box minimum ***64GB***
 
 ## Prepare the ENV file
-- (Follow Steps)[https://doc.sitecore.com/xp/en/developers/100/developer-tools/run-your-first-sitecore-instance.html]
+- [Follow Steps](https://doc.sitecore.com/xp/en/developers/100/developer-tools/run-your-first-sitecore-instance.html)
