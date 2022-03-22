@@ -1,5 +1,5 @@
 # Local Docker Repo
-This is a simple local docker, meaning do not set on Production. Please use at your own risk if you like.
+This is a simple developer setup for Sitecore Development in the local Computer using Docker. Please do not use this for Production. Please use at your own risk if you like. Please let me know if you find any issues while running, I will do my best to fix/update
 
 ## To Use
 - Clone the Repo
