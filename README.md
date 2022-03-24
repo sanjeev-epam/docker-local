@@ -1,16 +1,15 @@
 # Docker for Local Sitecore Development
-This is a simple developer setup for Sitecore Development in the local Computer using Docker. Please do not use this for Production. Please use at your own risk if you like. Please let me know if you find any issues while running, I will do my best to fix/update
+This is a simple developer setup for Sitecore Development on a local/VM using Docker. Please do not use this for Production. Please let me know if you find any issues while running. Feel free to PR.
 
-## (How to use the Solution)
+## How is the Solution Setup
 - TBD
-## To Use
+## To Use the Docker
 - Clone the Repo
 - Have Docker Desktop (Make sure you have your own ***licnese for Docker***)
 - Turn on Windows Containers mode on Docker Desktop
 - Use the following command
 > `docker-compose up -d`
-- Enjoy Sitecore
-
+### Considering running > `docker-compose build --no-cache` before running the above
 ## Note
 - Have enough RAM on your windows box minimum ***64GB***
 
