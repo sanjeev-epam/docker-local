@@ -9,8 +9,8 @@ This is a simple developer setup for Sitecore Development on a local/VM using Do
 - Turn on Windows Containers mode on Docker Desktop
 - Use the following command
 > `docker-compose up -d`
-### Considering running the build as mentioned below
-> `docker-compose build --no-cache` before running the above
+### Considering running the build as mentioned below before running the above command
+> `docker-compose build --no-cache`
 ## Note
 - Have enough RAM on your windows box minimum ***64GB***
 
